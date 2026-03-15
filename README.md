@@ -1,78 +1,37 @@
 # FUTURE_DS_01
 Analyze business sales data to identify revenue trends, top-selling products, high-value categories, and regional performance.
-# About the Task
-In this real-world internship task, you will work with business sales data to perform the kind of analysis that data analysts do for real companies, startups, and agencies.
+🚀 **Business Sales Performance Analytics Dashboard – Power BI Project**
 
-Your goal is not just to create charts, but to help a business answer important questions such as:
+I’m excited to share that I have completed **Task 1: Business Sales Performance Analytics** as part of the **Data Science & Analytics Internship** with Future Interns.
 
-Which products generate the most revenue?
-How do sales change over time?
-Which categories or regions are most profitable?
-Where should the business focus to grow faster?
-This task is designed so that even beginners can start, while still being valuable in real job and freelance scenarios.
+For this project, I analyzed a real-world e-commerce sales dataset and built an interactive dashboard using Microsoft Power BI to uncover key business insights and performance trends.
 
-You do not need advanced coding skills.
-You need curiosity, logical thinking, and willingness to learn analytics tools
+📊 **Key Highlights of the Dashboard**
+• Analyzed **8.28M total revenue** generated from **22K+ orders** and **4K+ customers**
+• Identified **top-selling products** contributing the highest share of revenue
+• Evaluated **monthly revenue trends and sales growth patterns**
+• Analyzed **regional sales performance**, highlighting the **United Kingdom as the major revenue contributor**
+• Examined **customer-level revenue distribution** to understand purchasing behavior
 
-# ✅ What You’ll Do
-During this task, you will:
+📈 **Business Insights**
+• Overall sales performance shows strong revenue generation.
+• A small group of products drives the majority of total revenue.
+• Sales experienced noticeable growth in the **final months of the year**, indicating seasonal demand.
+• A few key customers contribute significantly to overall revenue.
+• Sales growth varies across months, indicating opportunities for better marketing and sales planning.
 
-Clean and organize raw sales data (Excel or CSV format)
-Analyze:
-Revenue trends over time
-Top-selling products
-High-value categories or regions
-Build a professional, client-ready dashboard or analysis report
-Write clear insights and recommendations as if you are advising a real business
-# 🛠️ Tools You Can Use (Flexible)
-You may use any one or a combination of the following tools:
+💡 **Business Recommendations**
+• Focus marketing efforts on **top-performing products** to maximize revenue.
+• Expand marketing strategies in **high-potential international markets**.
+• Implement **customer retention strategies** for high-value customers.
+• Optimize inventory planning during **peak sales periods**.
 
-Power BI
-Tableau
-Microsoft Excel
-Python (optional, for advanced analysis)
-There is no restriction on tools — just like real analyst roles.
+This project helped me strengthen my skills in:
+✔ Data Cleaning
+✔ KPI Analysis
+✔ Business Performance Analytics
+✔ Data Visualization & Storytelling
 
-# 🎯 Skills You’ll Gain
-By completing this task, you will build practical skills such as:
+I’m looking forward to applying these skills to solve real-world business problems and continue growing in the field of **Data Analytics and Data Science**.
 
-Data cleaning & preparation
-Business-focused KPI analysis
-Trend and performance analysis
-Insight generation and reporting
-Business storytelling using data
-These are core skills required in analytics jobs and freelance projects.
-📁 Datasets – Choose What Fits Your Learning
-You may use any dataset that aligns with the task objective
-(sales, revenue, products, categories, regions).
 
-# Recommended Beginner-Friendly Datasets
-🛒 Online Retail Dataset (Kaggle)
-https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
-Real e-commerce transactions with product, quantity, and revenue data.
-🏬 Superstore Sales Dataset
-https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
-Ideal for beginners — includes region, category, sales, and profit.
-📦 E-commerce Orders Dataset (Kaggle)
-https://www.kaggle.com/datasets/carrie1/ecommerce-data
-Good for analyzing order trends and category performance.
-⚠️ You are not limited to these datasets.
-You may use any public, private, simulated, or self-created dataset as long as it represents a real business sales scenario and aligns with this task.
-
-# 💼 Real-World Tip (Very Important)
-To get the maximum value from this task, don’t limit yourself to online datasets.
-
-Look around you:
-
-A local shop
-A small online seller
-A service business tracking monthly revenue
-Create this dashboard for them using sample or anonymized data.
-
-This helps you:
-
-Think like a business consultant
-Build confidence working with real problems
-Create dashboards you can show to clients
-Learn how analytics can actually help you earn
-Many of our interns and freelancers start exactly this way.
