@@ -42,4 +42,37 @@ Trend and performance analysis
 Insight generation and reporting
 Business storytelling using data
 These are core skills required in analytics jobs and freelance projects.
+📁 Datasets – Choose What Fits Your Learning
+You may use any dataset that aligns with the task objective
+(sales, revenue, products, categories, regions).
 
+# Recommended Beginner-Friendly Datasets
+🛒 Online Retail Dataset (Kaggle)
+https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
+Real e-commerce transactions with product, quantity, and revenue data.
+🏬 Superstore Sales Dataset
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+Ideal for beginners — includes region, category, sales, and profit.
+📦 E-commerce Orders Dataset (Kaggle)
+https://www.kaggle.com/datasets/carrie1/ecommerce-data
+Good for analyzing order trends and category performance.
+⚠️ You are not limited to these datasets.
+You may use any public, private, simulated, or self-created dataset as long as it represents a real business sales scenario and aligns with this task.
+
+# 💼 Real-World Tip (Very Important)
+To get the maximum value from this task, don’t limit yourself to online datasets.
+
+Look around you:
+
+A local shop
+A small online seller
+A service business tracking monthly revenue
+Create this dashboard for them using sample or anonymized data.
+
+This helps you:
+
+Think like a business consultant
+Build confidence working with real problems
+Create dashboards you can show to clients
+Learn how analytics can actually help you earn
+Many of our interns and freelancers start exactly this way.
